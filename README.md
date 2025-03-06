@@ -1,5 +1,8 @@
 # Prayana Electric - Backend API Documentation
 
+## Code was tested on local WSL machine 
+## initial testing will be done on Raspberry pi with ubuntu server 24.0 (performance may vary)
+## GET api is missing
 
 ## Prerequisites
 - Docker installed on your machine
